@@ -1,0 +1,4 @@
+Sapato; 5
+Bolsa; 5
+Sapato; 6
+2; 6
